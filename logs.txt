@@ -1,0 +1,57 @@
+
+> uigen@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.3.3 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://100.64.114.149:3000
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Compiled middleware in 202ms
+ ✓ Ready in 1258ms
+ ○ Compiling / ...
+ ✓ Compiled / in 9.9s
+ GET / 200 in 10483ms
+ ✓ Compiled /favicon.ico in 405ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 696ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1101ms
+ POST /api/chat 200 in 10792ms
+ GET / 200 in 163ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 337ms
+ ✓ Compiled in 178ms
+ GET / 200 in 1278ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 298ms
+ GET / 200 in 170ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 290ms
+ GET / 200 in 137ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 297ms
+ GET / 200 in 147ms
+ GET / 200 in 90ms
+ GET / 200 in 82ms
+ GET / 200 in 83ms
+ ✓ Compiled in 134ms
+ GET / 200 in 136ms
+ GET / 200 in 95ms
+ GET / 200 in 145ms
+ GET / 200 in 274ms
+ ✓ Compiled in 172ms
+ ✓ Compiled in 167ms
+ ✓ Compiled in 161ms
+ ✓ Compiled in 168ms
+ ✓ Compiled in 139ms
+ ✓ Compiled in 136ms
+ GET / 200 in 443ms
+ GET / 200 in 109ms
+ GET / 200 in 151ms
+ GET / 200 in 262ms
+ ✓ Compiled in 124ms
+ GET / 200 in 507ms
+ GET / 200 in 100ms
+ GET / 200 in 164ms
+ GET / 200 in 314ms
+ POST /api/chat 200 in 3226ms
+ ✓ Compiled in 315ms
+ POST /api/chat 200 in 4706ms
+ GET / 200 in 565ms

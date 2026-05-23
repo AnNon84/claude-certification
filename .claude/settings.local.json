@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($r = Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -TimeoutSec 20; $r.StatusCode)",
+      "PowerShell(Get-Process -Name \"node\" -ErrorAction SilentlyContinue)",
+      "PowerShell(Stop-Process -Force)",
+      "Read(//c/Users/Anton_Novakovskyi/.claude/projects/**)",
+      "Bash(xargs grep -h 'tool_use')",
+      "PowerShell(New-Item -ItemType Directory -Path \"c:\\\\servers\\\\anthropic-certification\\\\uigen\\\\e2e\" -Force)"
+    ]
+  }
+}
